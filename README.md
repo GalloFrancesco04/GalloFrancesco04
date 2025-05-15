@@ -13,7 +13,7 @@ I'm a Computer Science student at the University of Parma. I enjoy exploring all
 ## 🛠️ Projects
 
 - **React Native Calendar Library:**  
-  I'm actively trying to develop a calendar library using React Native. Feel free to check it out on [GitHub](https://github.com/GalloFrancesco04/ReactNativeCalendarEnhanced) to help me improve it, since it's my first time woriking on something like this.
+  I'm trying to develop a calendar library using React Native. Feel free to check it out on [GitHub](https://github.com/GalloFrancesco04/ReactNativeCalendarEnhanced) to help me improve it, since it's my first time woriking on something like this.
 
 ## 🎯 Interests
 

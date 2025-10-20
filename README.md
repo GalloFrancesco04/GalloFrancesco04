@@ -3,10 +3,6 @@
 I'm a Computer Science student at the University of Parma. I enjoy exploring all areas of technology and blending technical precision with creativity, currently expanding my knowledge about Git and software development.
 
 
-![C++](https://img.shields.io/badge/-C++-orange?style=flat&logo=c%2B%2B)
-![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat&logo=react)
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
-
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalloFrancesco04&layout=compact)
 
 

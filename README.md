@@ -16,8 +16,8 @@ I'm a Computer Science student at the University of Parma. I enjoy exploring all
 ## 🎯 Interests
 
 - Cybersecurity  
-- Full-Stack Development  
-- Artificial Intelligence
+- BackEnd Development  
+
 
 ## 📫 How to Reach Me
 

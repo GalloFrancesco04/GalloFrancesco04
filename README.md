@@ -6,12 +6,6 @@ I'm a Computer Science student at the University of Parma. I enjoy exploring all
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalloFrancesco04&layout=compact)
 
 
-## 🛠️ Projects
-- https://github.com/GalloFrancesco04/chessGame
-- https://github.com/GalloFrancesco04/partyview
-- https://github.com/GalloFrancesco04/token-distance-display
-- 
-
 ## 🎯 Interests
 
 - Cybersecurity  

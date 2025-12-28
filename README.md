@@ -7,7 +7,10 @@ I'm a Computer Science student at the University of Parma. I enjoy exploring all
 
 
 ## 🛠️ Projects
-
+- https://github.com/GalloFrancesco04/chessGame
+- https://github.com/GalloFrancesco04/partyview
+- https://github.com/GalloFrancesco04/token-distance-display
+- 
 
 ## 🎯 Interests
 
@@ -20,9 +23,5 @@ I'm a Computer Science student at the University of Parma. I enjoy exploring all
 - **Email:** [gallofrancesco723@gmail.com](mailto:gallofrancesco723@gmail.com)
 
 ## 🎖️ GitHub Stats
-
-<!-- GitHub followers badge -->
-![GitHub followers](https://img.shields.io/github/followers/GalloFrancesco04?label=Followers&style=social)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GalloFrancesco04&theme=dark)
 

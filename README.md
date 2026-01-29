@@ -17,5 +17,5 @@ I'm a Computer Science student at the University of Parma. I enjoy exploring all
 - **Email:** [gallofrancesco723@gmail.com](mailto:gallofrancesco723@gmail.com)
 
 ## 🎖️ GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=patricale&theme=shadow_blue&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GalloFrancesco04&theme=dark)
 

@@ -12,9 +12,14 @@ I like understanding how systems work under the hood and building tools I actual
 lap comparison with a ghost car, and a dash for your phone over the local network.
 C# / .NET, 13 releases with CI and a large automated test suite.
 
-**[SAGA-Pattern-Exam](https://github.com/GalloFrancesco04/SAGA-Pattern-Exam)**: .NET microservices
-implementing the SAGA pattern with Kafka, transactional outbox and compensating transactions.
+**[saas-onboarding-saga](https://github.com/GalloFrancesco04/saas-onboarding-saga)**: SaaS subscription onboarding
+as an orchestrated SAGA across .NET microservices (billing, provisioning, notification), with Kafka,
+SQL Server, transactional outbox and compensating transactions.
 One-command setup with Docker Compose; CI publishes images to GHCR and a shared NuGet package.
+
+**[lab-inventory](https://github.com/GalloFrancesco04/lab-inventory)**: team project for a university
+computer lab: equipment inventory, loans and maintenance tracking with admin and technician roles.
+PHP 8.3, MySQL 8 and plain JavaScript on Docker, with a backend test suite.
 
 **[Party View](https://github.com/GalloFrancesco04/partyview)** and
 **[Token Distance Display](https://github.com/GalloFrancesco04/token-distance-display)**: Foundry VTT
@@ -25,7 +30,7 @@ with full move validation, check and checkmate.
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=dotnet,cs,c,cpp,python,js,ts,react,docker,kafka,githubactions,linux,git&perline=13)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=dotnet,cs,c,cpp,python,js,ts,react,php,mysql,docker,kafka,githubactions,linux,git&perline=13)](https://skillicons.dev)
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=GalloFrancesco04&show_icons=true&hide_border=true&theme=transparent&hide=issues&include_all_commits=true" />
